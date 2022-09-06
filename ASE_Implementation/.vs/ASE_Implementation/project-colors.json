@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c6f6263b-2f28-47fb-aa15-3f8cd925ee9e": {
+      "ProjectGuid": "c6f6263b-2f28-47fb-aa15-3f8cd925ee9e",
+      "DisplayName": "ASE_Implementation",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
