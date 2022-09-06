@@ -1,3 +1,0 @@
-﻿  BST.cpp
-D:\Documents\Work\Uni Year 3\ASE\Lab_4\Lab_4\BST.cpp(147): warning C4715: 'BST::lookupRec': not all control paths return a value
-  Lab_4.vcxproj -> D:\Documents\Work\Uni Year 3\ASE\Lab_4\Lab_4\x64\Debug\Lab_4.exe
